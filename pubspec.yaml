@@ -65,3 +65,7 @@ flutter:
     - assets/welcome/1dark.png
     - assets/welcome/2dark.png
     - assets/welcome/3dark.png
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/logo512.png"
