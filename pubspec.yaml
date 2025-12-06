@@ -52,7 +52,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
-
+  flutter_launcher_icons: ^0.13.1
 flutter:
   uses-material-design: true
   generate: true
@@ -68,4 +68,4 @@ flutter:
 flutter_icons:
   android: true
   ios: false
-  image_path: "assets/logo512.png"
+  image_path: "assets/icon.png"
